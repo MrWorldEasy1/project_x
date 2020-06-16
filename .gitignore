@@ -1,1 +1,17 @@
 #ignore-list for files of project 'project_x'
+
+#Unreal Engine
+StarterContent/
+Saved/
+Binaries/
+Build/
+Debug/
+Intermediate/
+DerivedDataCache/
+UnrealHeaderTool/
+UnrealPak/
+obj/
+*.VC.opendb
+*.opensdf
+*.sdf
+*.suo
